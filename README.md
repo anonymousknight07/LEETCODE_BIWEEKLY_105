@@ -12,10 +12,10 @@ This repository contains my solutions for the LeetCode Biweekly Contest 105. In 
 
 The repository contains the following solution files:
 
-- Question1.cpp: Solution for Question 1
-- Question2.py: Solution for Question 2
-- Question3.java: Solution for Question 3
-- Question4.py: Attention: Solution for Question 4 with known issues
+-  [ Question1.cpp ](https://github.com/anonymousknight07/LEETCODE_BIWEEKLY_105/blob/main/question1.cpp): Solution for Question 1
+- [ Question2.cpp ](https://github.com/anonymousknight07/LEETCODE_BIWEEKLY_105/blob/main/question2.cpp): Solution for Question 2
+- [ Question3.py ](https://github.com/anonymousknight07/LEETCODE_BIWEEKLY_105/blob/main/question3.py): Solution for Question 3
+- [ Question4.py ](https://github.com/anonymousknight07/LEETCODE_BIWEEKLY_105/blob/main/question4.py): Attention: Solution for Question 4 with known issues
 
 # Known Issue with Question 4 Solution
 I would like to bring attention to the fact that the code for Question 4 does not pass all the provided test cases. After thorough testing, I discovered an error in my approach that causes incorrect outputs in certain scenarios. I apologize for any confusion or inconvenience caused by this error.
